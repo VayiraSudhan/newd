@@ -53,3 +53,7 @@ img{
 #No:hover {
     cursor: pointer;
 }
+.footer{
+text-align: center;
+  margin-top: auto;
+}
